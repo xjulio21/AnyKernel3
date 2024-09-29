@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string= Squeak Kernel || by Vaz15K
+kernel.string= Aegis Kernel || by Brutufi
 do.devicecheck=0
 do.soccheck=1
 do.modules=0
